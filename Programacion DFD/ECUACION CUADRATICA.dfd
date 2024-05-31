@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+" ingrese a - b - c "
+5
+1
+5
+a,b,c
+7
+0
+1
+14
+(b^2-4*a*c)>=0
+4
+1
+31
+"no hay solucion en los reales"
+13
+7
+0
+1
+4
+a>0 
+4
+1
+31
+"no hay solucion en los reales"
+13
+6
+2
+1
+x
+26
+(-b+SQRT(b^2-4*a*c))/(2*a)
+1
+y
+26
+(-b-SQRT(b^2-4*a*c))/(2*a)
+4
+1
+30
+"el valor de de x1 es     ", x
+4
+1
+28
+"el valor de x2 es     " , y
+13
+13
+1
